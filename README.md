@@ -1,4 +1,5 @@
 ## Hi there :blush:, I'm Edward. Welcome to my profile page :wink:
+![](https://visitor-badge.laobi.icu/badge?page_id=edw9998.edw9998)
 <hr>
 
 #### 🎓 I'm an undergraduate computer science student at Binus International University
