@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/edw9998?label=Follow&style=social)](https://github.com/edw9998)
 <hr>
 
-#### 🎓 I'm an undergraduate computer science student at Binus International University
+#### 🎓 I'm currently an undergraduate computer science student at Binus International University
 <hr>
 
 - 🌱 I have an extortionate degree of curiosity in ***Data Science*** and ***Machine Learning*** departments. 
