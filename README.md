@@ -1,6 +1,5 @@
-### Hi there :blush:,  I'm Edward. Welcome to my Github profile page :wink:
+### Hi there :blush:,  I am Edward. Welcome to my Github profile page :wink:
 
-<!--
 **edw9998/edw9998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
