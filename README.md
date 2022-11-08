@@ -1,4 +1,4 @@
-## Hi there :blush:, I'm Edward. Welcome to my profile page :wink:
+## Hi, welcome to my profile page :wink:
 ![](https://visitor-badge.laobi.icu/badge?page_id=edw9998.edw9998)
 [![Github](https://img.shields.io/github/followers/edw9998?label=Follow&style=social)](https://github.com/edw9998)
 <hr>
@@ -6,9 +6,9 @@
 #### 🎓 I'm currently an undergraduate computer science student at Binus International University
 <hr>
 
-- 🌱 I have an extortionate degree of curiosity in ***Data Science*** and ***Machine Learning*** departments. 
-- 👯 I’m looking to collaborate on any public projects.
-- 💬 Ask me about absolutely anything.
+- 🌱 I'm particularly interested in ***Data Science*** and ***Machine Learning*** departments. 
+- 👯 Looking to collaborate on any public projects.
+- 💬 Ask me about anything.
 - 📫 How to reach me : [edwardwinata@gmail.com](https://www.google.com/gmail/about/).
 <hr>
 
