@@ -1,4 +1,4 @@
-## Hi, welcome to my profile page :wink:
+## Hi, welcome to my profile page
 ![](https://visitor-badge.laobi.icu/badge?page_id=edw9998.edw9998)
 [![Github](https://img.shields.io/github/followers/edw9998?label=Follow&style=social)](https://github.com/edw9998)
 <hr>
