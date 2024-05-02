@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/edw9998?label=Follow&style=social)](https://github.com/edw9998)
 <hr>
 
-#### 🎓 I am an undergraduate computer science student at The University of New South Wales
+#### 🎓 I am an undergraduate computer science student at Binus International University and The University of New South Wales.
 <hr>
 
 - 🌱 I'm particularly interested in ***Data Science*** and ***Machine Learning*** departments. 
