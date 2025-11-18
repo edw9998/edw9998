@@ -30,9 +30,9 @@
      alt="NumPy" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/pandas/150458" 
      alt="Pandas" height="40" style="margin:4px;">
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
      alt="Matplotlib" height="40" style="margin:4px;">
-<img src="https://cdn.simpleicons.org/seaborn/4A90E2" 
+<img src="https://www.svgrepo.com/show/354440/seaborn.svg"
      alt="Seaborn" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
      alt="Scikit-learn" height="40" style="margin:4px;">
