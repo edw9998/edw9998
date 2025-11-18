@@ -32,21 +32,21 @@
      alt="Pandas" height="40" style="margin:4px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
      alt="Matplotlib" height="40" style="margin:4px;">
-<img src="images/image_1.png" alt="Seaborn" style="margin:4px">
+<img src="images/image_1.png" alt="Seaborn" style="width:200px;height:200px; margin:4px">
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
      alt="Scikit-learn" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/keras/D00000" 
      alt="Keras" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/spacy/09A3D5" 
      alt="spaCy" height="40" style="margin:4px;">
-<img src="images/image_2.png" alt="OpenAI" style="margin:4px">
+<img src="images/image_2.png" alt="OpenAI" style="width:200px;height:200px; margin:4px">
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" 
      alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" 
      alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-<img src="images/image_3.png" alt="Tableau" style="margin:4px">
+<img src="images/image_3.png" alt="Tableau" style="width:200px;height:200px; margin:4px">
 </p>
 <hr>
 
