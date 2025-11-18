@@ -32,14 +32,18 @@
      alt="Pandas" height="40" style="margin:4px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
      alt="Matplotlib" height="40" style="margin:4px;">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" width="40" height="40" title="Seaborn"> 
+     
+![Seaborn](https://cdn.jsdelivr.net/gh/sereneinserenade/solace@main/assets/seaborn-logo.png "Seaborn")
+     
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
      alt="Scikit-learn" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/keras/D00000" 
      alt="Keras" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/spacy/09A3D5" 
      alt="spaCy" height="40" style="margin:4px;">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" width="40" height="40" title="OpenAI">
+     
+![OpenAI](https://cdn.jsdelivr.net/gh/sereneinserenade/solace@main/assets/openai-logo.png "OpenAI")
+
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" 
