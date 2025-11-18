@@ -28,8 +28,6 @@
      alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.simpleicons.org/numpy/013243" 
      alt="NumPy" height="40" style="margin:4px;">
-<img src="https://cdn.simpleicons.org/python/3776AB" 
-     alt="tqdm" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/pandas/150458" 
      alt="Pandas" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/matplotlib/11557C" 
