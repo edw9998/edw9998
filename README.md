@@ -32,7 +32,7 @@
      alt="Pandas" height="40" style="margin:4px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
      alt="Matplotlib" height="40" style="margin:4px;">
-<img src="https://www.svgrepo.com/download/354440/seaborn.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Seaborn_logo.svg/512px-Seaborn_logo.svg.png"
      alt="Seaborn" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
      alt="Scikit-learn" height="40" style="margin:4px;">
@@ -40,7 +40,7 @@
      alt="Keras" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/spacy/09A3D5" 
      alt="spaCy" height="40" style="margin:4px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png"
      alt="OpenAI" height="40" style="margin:4px;">
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
