@@ -24,12 +24,8 @@
      alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
      alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img
-     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arnny&psig=AOvVaw2wLN97xUX0rNUkk_VYqO8J&ust=1763520740417000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjGraHY-pADFQAAAAAdAAAAABAE"
-     alt="Google Colab"
-     height="40"
-     style="vertical-align:top; margin:4px"
-     onerror="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fgoogle-colab-logo&psig=AOvVaw2wLN97xUX0rNUkk_VYqO8J&ust=1763520740417000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjGraHY-pADFQAAAAAdAAAAABAL">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
+     alt="Google Colab" height="40" style="vertical-align:top; margin:4px">
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" 
