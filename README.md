@@ -24,15 +24,15 @@
      alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
      alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/google-colab/google-colab.png" 
+<img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" 
      alt="Google Colab" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" 
+<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" 
      alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/power-bi/power-bi.png" 
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" 
      alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" 
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" 
      alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 </p>
 <hr>
