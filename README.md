@@ -20,19 +20,37 @@
 
 #### 🧰 Languages and tools :
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
-     alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
      alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
      alt="Google Colab" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
+     alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"
+     alt="NumPy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/tqdm/tqdm/master/images/logo.svg"
+     alt="tqdm" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"
+     alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+     alt="Matplotlib" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.svgrepo.com/show/354440/seaborn.svg"
+     alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+     alt="scikit-learn" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+     alt="Keras" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg"
+     alt="spaCy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"
+     alt="OpenAI" height="40" style="vertical-align:top; margin:4px">
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" 
      alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" 
      alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-<img src="https://skillicons.dev/icons?i=tableau" 
+<img src="https://www.svgrepo.com/show/327399/logo-tableau.svg"  
      alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 </p>
 <hr>
