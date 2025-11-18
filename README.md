@@ -33,8 +33,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
      alt="Matplotlib" height="40" style="margin:4px;">
      
-![Seaborn](https://cdn.jsdelivr.net/gh/sereneinserenade/solace@main/assets/seaborn-logo.png "Seaborn")
-     
+![Seaborn](images/image_1.png)
+
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" 
      alt="Scikit-learn" height="40" style="margin:4px;">
 <img src="https://cdn.simpleicons.org/keras/D00000" 
@@ -42,7 +42,7 @@
 <img src="https://cdn.simpleicons.org/spacy/09A3D5" 
      alt="spaCy" height="40" style="margin:4px;">
      
-![OpenAI](https://cdn.jsdelivr.net/gh/sereneinserenade/solace@main/assets/openai-logo.png "OpenAI")
+![OpenAI](images/image_2.png)
 
 <img src="https://skillicons.dev/icons?i=sqlite" 
      alt="SQL" height="40" style="vertical-align:top; margin:4px">
@@ -50,8 +50,8 @@
      alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" 
      alt="Power BI" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.svgrepo.com/show/327399/logo-tableau.svg"  
-     alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+     
+![Tableau](images/image_3.png)
 </p>
 <hr>
 
